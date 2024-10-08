@@ -27,4 +27,4 @@
 5. *Предметный анализ*
 
 ### Результат:
-[Ссылка на проект](https://github.com/postvlone/hh_project/blob/main/hhru_project2.ipynb)
+[Ссылка на проект](https://github.com/postvlone/hh_project/blob/main/project2/hhru_project2.ipynb)
